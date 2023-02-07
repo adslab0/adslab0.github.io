@@ -4,7 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-[//]: # (<font size = 5 > Under the Construction :&#41; </font><br>)
+<font size = 5 > Under the Construction :) </font><br>
+<br>
 <br>
 
 <img src="/images/research_01_anomaly_detection.png" width=300 align="center">
