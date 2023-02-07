@@ -1,16 +1,23 @@
 - title: "Research"
   href: "/research/"
 
-- title: "Blog"
-  href: "/blog/"
+- title: "People"
+  href: "/people/"
 
-- title: "CV"
-  href: "/cv/"
+- title: "Publications"
+  href: "/publications/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
-  subcategories:
-    - subtitle: "Item 1"
-      subhref: "/miscellany/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/miscellany/item-2/"
+
+#- title: "Blog"
+#  href: "/blog/"
+#
+#- title: "CV"
+#  href: "/cv/"
+
+#- title: "Miscellany"
+#  href: "/miscellany/"
+#  subcategories:
+#    - subtitle: "Item 1"
+#      subhref: "/miscellany/item-1/"
+#    - subtitle: "Item 2"
+#      subhref: "/miscellany/item-2/"
