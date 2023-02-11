@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7c32a9-5bc0-4805-b797-9ebc7552a329" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/17973908.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/23661.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/business-meeting-over-coffee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/city-behind-greenery.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/four-hands-meeting.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/laptop-in-empty-room.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/large-group-standing-in-office.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/large-group-standing-in-office_v2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/office-space-brainstorming.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/person-holds-a-book.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/research_00_home_01_v2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/team-brainstorm-in-modern-office.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/team_home_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tech-group-meeting-flatlay.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/tech-group-meeting-flatlay_v2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/site-feature.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/site-feature.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts.md" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/members.md" beforeDir="false" afterPath="$PROJECT_DIR$/members.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/publications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/23661.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/23661.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
