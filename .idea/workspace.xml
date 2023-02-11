@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d7c32a9-5bc0-4805-b797-9ebc7552a329" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/Profile_yj_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo_v1_icononly_nobuffer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo_v2_fulllogo_nobuffer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/main02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/research_01_anomaly.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/research_02_multivariate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/research_03_deepfake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/research_04_privacy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/favicon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/favicon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/favicon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/members.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/publications.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2LX4RiuU8iBqrqn2hHBgF2T9XjB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/yjshi/Documents/adslab0.github.io/assets/images"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yjshi\Documents\adslab0.github.io\assets\images" />
+      <recent name="C:\Users\yjshi\Documents\adslab0.github.io" />
+      <recent name="C:\Users\yjshi\Documents\adslab0.github.io\assets\logos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yjshi\Documents\adslab0.github.io" />
+      <recent name="C:\Users\yjshi\Documents\adslab0.github.io\.github" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="adslab0.github.io" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d7c32a9-5bc0-4805-b797-9ebc7552a329" name="Changes" comment="" />
+      <created>1676004086990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676004086990</updated>
+    </task>
+    <servers />
+  </component>
+</project>
