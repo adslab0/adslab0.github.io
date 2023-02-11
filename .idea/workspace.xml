@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d7c32a9-5bc0-4805-b797-9ebc7552a329" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/Profile_yj_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo_v1_icononly_nobuffer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo_v2_fulllogo_nobuffer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/main02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/research_01_anomaly.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/research_02_multivariate.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/research_03_deepfake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/research_04_privacy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logos/favicon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logos/favicon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logos/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logos/favicon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logos/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logos/favicon-96x96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contacts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/members.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publications.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
-    </list>
+    <list default="true" id="3d7c32a9-5bc0-4805-b797-9ebc7552a329" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
