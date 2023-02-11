@@ -2,7 +2,7 @@
 title: Publications
 [//]: # (feature_text: |)
 [//]: # ( Publications)
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/images/person-holds-a-book.jpg"
 [//]: # (layout: blog)
 [//]: # (aside: true)
 [//]: # (collectionpage: posts)

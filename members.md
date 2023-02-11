@@ -2,7 +2,9 @@
 title: Members
 [//]: # (feature_text: |)
 [//]: # ( Publications)
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/images/office-space-brainstorming.jpg"
+
+[//]: # (feature_image: "/assets/images/purple-flowers-pop.jpg")
 [//]: # (layout: blog)
 [//]: # (aside: true)
 [//]: # (collectionpage: posts)
@@ -21,22 +23,10 @@ Assistant Professor in the Department of Data Science at the Catholic University
 
 * Education
 
-Ph.D. in Computer Science at the State University of New York at Stony Brook (2022, Jun.) &nbsp;
-
-M.S. in Computer Science at the State University of New York at Stony Brook 
-
-M.B.A. in IT&Media MBA at the Korea Advanced Institute of Science and Technology (KAIST) &nbsp;
-
-B.S. in Computer Science at Ewha Womans University
+-Ph.D. in Computer Science at the State University of New York at Stony Brook (2022, Jun.) <br> -M.S. in Computer Science at the State University of New York at Stony Brook <br> -M.B.A. in IT&Media MBA at the Korea Advanced Institute of Science and Technology (KAIST) <br> -B.S. in Computer Science at Ewha Womans University
 
 
 
 * Work Experience
 
-Assistant Professor in the Department of Data Science at the Catholic University of Korea, Rep. of Korea (Now)
-
-Assistant Professor at the Department of Data Science at Sejong University, Seoul, S.Korea.
-
-Post-doc in the Software Convergence Research Institute at Sungkyunkwan University, Suwon, S.Korea
-
-Staff at Chosunilbo, Seoul, S.Korea
+-Assistant Professor in the Department of Data Science at the Catholic University of Korea, Rep. of Korea (Now) <br> -Assistant Professor at the Department of Data Science at Sejong University, Seoul, Rep. of Korea <br> -Staff at Chosunilbo, Seoul, S.Korea

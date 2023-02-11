@@ -4,7 +4,8 @@ title: ADSLab
 [//]: # (feature_text: |)
 [//]: # (  ### WELCOME TO ADSLab :&#41;)
 [//]: # (  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website)
-feature_image: "assets/images/main02.png"
+[//]: # (feature_image: "assets/images/main02.png")
+feature_image: "assets/images/23661.jpg"
 ---
 
 
