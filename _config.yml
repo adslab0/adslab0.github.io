@@ -97,7 +97,7 @@ title: "CUK" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/images/logo_v2_fulllogo_nobuffer.jpg" # Site logo, also used in jekyll-seo-tag
 #description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 description: "ADSLab" # Site description and default description, also used in jekyll-seo-tag
-url: "https://github.com/adslab0/archieve" # Site url, also used in jekyll-seo-tag
+url: "https://adslab0.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/adslab0/archieve"
 email: "yj.shinn@gmail.com"
