@@ -112,6 +112,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   16: '/assets/logos/favicon-16x16.png'
+#  16: '/assets/logos/favicon.ico'
   32: '/assets/logos/favicon-32x32.png'
   96: '/assets/logos/favicon-96x96.png'
   120: '/assets/logos/favicon-120x120.png'
@@ -126,10 +127,12 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Research
-  url: /research/
 - title: Members
   url: /members/
+- title: Research
+  url: /research/
+- title: Lectures
+  url: /lectures/
 - title: Publications
   url: /publications/
 - title: Contacts
