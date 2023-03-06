@@ -16,7 +16,7 @@ Tel : 02-2164-5524
 T405 @ Michael Hall(Faculty)
 
 ##### Lab
-B348 @ Sophie Barat Hall
+Data Science Lab (B327) @ Sophie Barat Hall (=Creative Cluster Hall)
 
 ##### Address
 Address : (14662) 경기도 부천시 지봉로 43
