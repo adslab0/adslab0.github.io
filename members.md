@@ -37,17 +37,45 @@ Assistant Professor in the Department of Data Science and the Department of Arti
 
 <br>
 
-**Wonjae Lee (이원재)**
+**Jaeyoung Choi (최재영)**
 
 
 
 B.S. student
 
-Department of Data Science @ Sejong University
+Department of Mathematics
 
 
 <br>
 {% include figure.html image="/assets/images/person_icon_2.jpg" position="left" width="200" %}
+
+<br>
+
+**Hyunjoo Lee (이현주)**
+
+
+
+B.S. student
+
+Department of Mathematics
+
+
+<br>
+{% include figure.html image="/assets/images/person_icon_1.jpg" position="left" width="200" %}
+
+<br>
+
+**Nayeon Kim (김나연)**
+
+
+
+B.S. student
+
+Department of Information, Communications and Electronic Engineering
+
+
+<br>
+{% include figure.html image="/assets/images/person_icon_1.jpg" position="left" width="200" %}
 
 <br>
 
